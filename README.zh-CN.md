@@ -13,7 +13,7 @@ repository-name
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
@@ -24,7 +24,7 @@ repository-name
 
 ## 100-简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200-要求
 
