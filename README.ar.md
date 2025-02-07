@@ -6,7 +6,7 @@
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -14,11 +14,11 @@
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ولدت مع[ريتر](https://app.rytr.me)
 
@@ -28,11 +28,11 @@ Text
 
 ## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 - بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخلاصة
 
