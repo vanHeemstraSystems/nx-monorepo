@@ -12,7 +12,7 @@ repository-name
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@ repository-name
 
 文字
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -30,7 +30,7 @@ Generated with [ritr](https://app.rytr.me)
 
 看[README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
